@@ -1,2 +1,2 @@
-# Jer-HF_DemoProject
-sample project for Hangfire
+# Jer-Demo_Projects
+set of applications for trying a solution
